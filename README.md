@@ -1,1 +1,1 @@
-
+[x] DATA PRIBADI
