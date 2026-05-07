@@ -1,1 +1,1 @@
-<div style="height: 400.00px; width: 300.00px; position:relative;"><iframe allow="autoplay; gyroscope;" allowfullscreen height="100%" referrerpolicy="strict-origin" src="https://www.kapwing.com/e/69fcdfae3d086d5b51f27835" style="border:0; height:100%; left:0; overflow:hidden; position:absolute; top:0; width:100%" title="Embedded content made on Kapwing" width="100%"></iframe></div><p style="font-size: 12px; text-align: right;">Gif edited on <a href="https://www.kapwing.com/video-editor">Kapwing</a></p>
+https://www.kapwing.com/videos/69fcdfae3d086d5b51f27835
