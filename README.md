@@ -1,2 +1,1 @@
-# Personal data 
-![1000031157](https://github.com/user-attachments/assets/41d86e07-e83b-4b48-8f4b-07c35d277c1e)
+<div style="height: 400.00px; width: 300.00px; position:relative;"><iframe allow="autoplay; gyroscope;" allowfullscreen height="100%" referrerpolicy="strict-origin" src="https://www.kapwing.com/e/69fcdfae3d086d5b51f27835" style="border:0; height:100%; left:0; overflow:hidden; position:absolute; top:0; width:100%" title="Embedded content made on Kapwing" width="100%"></iframe></div><p style="font-size: 12px; text-align: right;">Gif edited on <a href="https://www.kapwing.com/video-editor">Kapwing</a></p>
